@@ -1,4 +1,6 @@
-# Bakmi, Bak Chor Mee, Mee Pok, ...
+---
+title: Bakmi, Bak Chor Mee, Mee Pok, ...
+---
 
 The dry-ish noodles with soup on the side that we love in Southeast Asia isn't so common in the US.
 
